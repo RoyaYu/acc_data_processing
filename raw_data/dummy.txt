@@ -1,0 +1,9 @@
+VIDEO FRAMERATE:
+  50.000 with 572 frames
+PAYLOAD TIME:
+  0.000 to 1.000 seconds
+SCALED DATA:
+  ACCL -4.451m/s≤, 0.175m/s≤, 5.441m/s≤, 
+  ACCL -4.609m/s≤, -0.094m/s≤, 5.444m/s≤,
+COMPUTED SAMPLERATES:
+  ACCL sampling rate = 197.255799Hz (time 0.001135 to 11.519174)",
